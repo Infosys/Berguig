@@ -1,0 +1,20 @@
+<companies_list>
+<company>
+    <c_id>c1</c_id>
+    <c_name>company_name</c_name>
+    <youtube>channel_name</youtube>
+    <twitter_name>@twitter_account</twitter_name>
+    <hashtag>#hashtag</hashtag>
+	<keyword>keyword1</keyword>
+	<keyword>keyword2</keyword>
+</company>
+<company>
+    <c_id>c1</c_id>
+    <c_name>company_name</c_name>
+    <youtube>channel_name</youtube>
+    <twitter_name>@twitter_account</twitter_name>
+    <hashtag>#hashtag</hashtag>
+	<keyword>keyword1</keyword>
+	<keyword>keyword2</keyword>
+</company>
+</companies_list>
