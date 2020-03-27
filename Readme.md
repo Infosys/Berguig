@@ -8,26 +8,7 @@ Example of XML file
 
 people.xml
 ----------
-
-<people_list version='2'>
-
-<person p_id='1'>
-    <p_name>Name</p_name>
-	<email>mail@domain.com</email>
-	<group>
-        <g_name>group_name</g_name>
-    	<comp_id>Company1</comp_id>
-    	<comp_id>Company2</comp_id>
-    	<comp_id>Company3</comp_id>
-    	<comp_id>Company4</comp_id> 
-	    <comp_id>Company5</comp_id>
-    </group>
-    <single>
-    	<comp_id>Company6</comp_id>
-    	<comp_id>Company7</comp_id>
-	</single>
-</person>
-</people_list>
+Contains the person's name, mail id, groups of comapnies or individual companiees of interest
 
 comapnies.xml
 -------------
