@@ -1281,11 +1281,6 @@ def SendEmail():
     
 
     
-    #test={u'Anaga Mahadevan': u'zineb.TRN@infosys.com',
-     #     u'Murali Vasudevan':u'zineb.TRN@infosys.com',
-      #    u'Niranjan Mallya': u'zineb.TRN@infosys.com',
-       #   u'Zineb Mezzour': u'zineb.TRN@infosys.com'}
-    
     #replace test with people_email_dic
     
     for p in people_email_dic:
